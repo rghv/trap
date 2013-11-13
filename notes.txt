@@ -1,0 +1,35 @@
+
+
+----------------------------------- sent by Chandru - 28 Nov 2013 ------------
+
+1. The project implementation is kicked off by the Implementation Manager 
+    where the project dates are decided with a release plan dividing the dates 
+    of the project.
+
+2. A discussion then happens with all the Project Managers since their teams 
+    would be involved in implementing the requirements.
+
+3. The RRT is then circulated for every release among the Project Managers. 
+    This RRT has information about  the Task ID's , Gap ID's  and the Project 
+    Managers.
+
+4. Project Managers request for dates from the developers regarding their 
+    tasks for the release ( eg R1 ).
+
+5. They go on a Release Plan Meeting to discuss dates with the other PM's 
+    and build team regarding deliverables. The dates for this release R1 
+    are decided eg - Code Freeze, Local Update, Dev Update, UAT Update, 
+    Prod Update
+
+6. The env updates also include Sending of Packages by the DEV Team, Testing 
+    by the QA team, Fixing of bugs by the DEV Team, Sign Off by the QA team 
+    followed by a fresh build from the build team.
+
+7. The build team now prepares Release Notes based on the Release for 
+    their reference.
+
+8. The release is made to the client on DEV/ UAT or PROD
+
+Sent from Evernote 
+------------------------------------------------------------------------------
+

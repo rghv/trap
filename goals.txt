@@ -1,0 +1,59 @@
+Goals for the release tracker utility
+----------------------------------------
+
+1. Provide easy templates for project managers to create a release plan
+
+    Automation of the Release Request Template creation
+
+2. Comments on every screen/ Email updates for notifications related to any inserts or changes
+
+3. Every comment/ Ticket/ Task is searchable.
+
+4. Developer Views would contain 
+
+    Details about Release/ Client / Task Id's with appropriate links
+    Ability to send an email with packages for the release. The application has to keep a record of this
+
+5. QA views should contain
+
+    Ability to add comments after the build is updated or during the course of testing
+    Daily updates for the client release to the team
+
+6. Provide timely notices or emails to developers and project managers about upcoming deadlines based on the release plan
+
+    Once the RRT is created and the Internal Plan per team is created 
+    Reminder email just before the deadline approaches
+    Email on when the build was uploaded
+    Email on the QA sign off with comments
+    Updates on completion of release with complete report of Tasks completed and Bugs fixed    
+
+7. Provide dashboards for Release Managers, Project Managers and Developers for every release
+
+    For Developers this would contain
+
+    Packages sent for this client release
+    Task ID's/ Change Orders/ Critical bugs for this release
+    Bugs fixed
+    Dates for UAT, DEV and Local releases
+    Collection of release notes/ Documents 
+
+    For Release Managers this would contain 
+
+    List of clients ( Selectable and sortable )
+    Release numbers ( viewable by date )
+    DEV, UAT and LOCAL release dates
+    Status  of that release ( Go/ No Go ? ) Comments for the same.
+    Release exe version ( Link to the exe for later perusal )
+    Release Notes/ Documents
+
+    For Project/ Implementation Managers this would contain
+        List of clients
+        List of releases/
+        Tickets/ Task ID's/ Bugs to be fixed
+        Team Mates associated with them ( With the Organization Matrix )
+        Release Notes/ Information/ UPD's  per release
+        Details of QA's signoff with Documents or Notes
+        Final Package list for that release ( With links to github uris )
+        Release exe version ( Link to the exe for later perusal )
+
+Sent from Evernote 
