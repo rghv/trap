@@ -1,0 +1,12 @@
+Please find below links to few tutorials on Django.
+
+http://toys.jacobian.org/presentations/2007/pycon/tutorials/beginning/
+http://www.sitepoint.com/build-to-do-list-30-minutes/
+And a lot more listed at https://code.djangoproject.com/wiki/Tutorials/
+
+
+For bootstrap.css -
+http://getbootstrap.com/2.3.2/getting-started.html#examples
+http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/
+http://www.w3resource.com/twitter-bootstrap/tutorial.php
+
